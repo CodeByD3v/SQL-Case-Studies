@@ -1,0 +1,51 @@
+restaurant_id,restaurant_name,cuisine_type,location,rating,number_of_orders
+1,Tasty Bites,Italian,Downtown,4.5,1500
+2,Spice Delight,Indian,Midtown,4.0,1200
+3,Sushi Haven,Japanese,Uptown,4.2,1000
+4,BBQ Junction,American,Suburbia,4.3,800
+5,Veggie Oasis,Vegetarian,Downtown,4.6,2000
+6,Fiesta Mexicana,Mexican,Midtown,4.1,900
+7,The French Quarter,French,Downtown,4.7,1800
+8,Curry Palace,Indian,Uptown,4.4,1300
+9,Noodle Nation,Chinese,Midtown,4.2,1100
+10,Grill Master,American,Suburbia,4.0,1000
+11,Pizza Paradise,Italian,Downtown,4.8,2200
+12,Sizzle House,Steakhouse,Midtown,4.3,950
+13,Thai Temptations,Thai,Uptown,4.5,1350
+14,Seafood Sensation,Seafood,Coastal,4.6,1700
+15,Veggie Delight,Vegetarian,Downtown,4.4,1600
+16,Casa de Tapas,Spanish,Midtown,4.2,1050
+17,Burger Barn,Fast Food,Suburbia,4.0,800
+18,Pasta Palace,Italian,Downtown,4.5,1450
+19,Wok Wonders,Chinese,Uptown,4.3,1250
+20,BBQ Bliss,American,Suburbia,4.2,950
+21,Pita Palace,Mediterranean,Downtown,4.6,1850
+22,Tokyo Treats,Japanese,Midtown,4.4,1400
+23,Indian Spice,Indian,Uptown,4.7,1550
+24,Burrito Bonanza,Mexican,Downtown,4.3,1200
+25,Bistro Bliss,French,Midtown,4.5,1100
+26,Chopstick Charm,Chinese,Uptown,4.2,1000
+27,Grill House,American,Suburbia,4.1,850
+28,Trattoria Toscana,Italian,Downtown,4.6,1650
+29,Spice Route,Indian,Midtown,4.3,1250
+30,Sushi Supreme,Japanese,Uptown,4.8,2000
+31,Smokehouse Grill,BBQ,Suburbia,4.4,1350
+32,Falafel Fantasy,Middle Eastern,Downtown,4.5,1450
+33,Noodle Nook,Chinese,Midtown,4.2,1050
+34,Burger Boutique,American,Suburbia,4.1,900
+35,Pizza Perfecto,Italian,Downtown,4.7,1800
+36,Tokyo Fusion,Japanese,Uptown,4.5,1550
+37,Curry Corner,Indian,Midtown,4.3,1200
+38,Tacos 'n' Tequila,Mexican,Downtown,4.6,1400
+39,Crepe Cafe,French,Uptown,4.4,1100
+40,Chop House,Steakhouse,Midtown,4.2,1000
+41,Noodle House,Chinese,Downtown,4.8,1900
+42,Grill & Chill,American,Suburbia,4.5,1650
+43,Pasta Perfection,Italian,Downtown,4.4,1500
+44,Spice Garden,Indian,Uptown,4.6,1350
+45,Sushi Spot,Japanese,Midtown,4.3,1200
+46,BBQ Barn,BBQ,Suburbia,4.1,900
+47,Shawarma Shack,Middle Eastern,Downtown,4.7,1700
+48,Burger Bistro,American,Midtown,4.5,1450
+49,Pizzeria Paradiso,Italian,Uptown,4.3,1250
+50,Wok Wonderland,Chinese,Downtown,4.9,2100
