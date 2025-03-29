@@ -7,6 +7,7 @@ This SQL query analyzes Platinum customers' ordering behavior, identifying:
 ✅ The most loyal customers who repeatedly order from the same restaurants.
 
 Breakdown of the Query
+
 1️⃣ PLATINUM_CUSTOMERS CTE
 
 Filters customers with a Platinum membership.
