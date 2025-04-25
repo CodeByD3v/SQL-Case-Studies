@@ -41,6 +41,9 @@ Total orders from Platinum customers
 Loyal customers & their repeated orders
 
 Use Case & Insights
+
 📌 Helps food delivery platforms like Swiggy or Zomato identify top-performing restaurants.
+
 📌 Assists in creating targeted promotions & loyalty programs for repeat customers.
+
 📌 Supports restaurant partnerships & location-based strategies for better customer engagement.
