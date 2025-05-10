@@ -23,9 +23,9 @@ The case study uses two datasets:
 
 2) zomato_restaurant_details
 
-RestaurantID
+- RestaurantID
 
-RestaurantName
+- RestaurantName
 
-Commision %
+- Commision %
 
