@@ -24,3 +24,8 @@ Find restaurants that:
 
 Have 5 or fewer orders, and
 Generate high overall profit (net value).
+
+## 🏆 Insights
+
+- Reveals niche or premium restaurants that are highly profitable despite limited orders.
+- Useful for identifying exclusive partnerships or potential premium listings.
