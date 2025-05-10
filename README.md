@@ -7,19 +7,19 @@ The case study uses two datasets:
 
 1) zomato_order_details
 
-OrderID
+- OrderID
 
-RestaurantID
+- RestaurantID
 
-OrderValue
+- OrderValue
 
-Zomato_Discount
+- Zomato_Discount
 
-Merchant_Discount
+- Merchant_Discount
 
-Net_Value (Calculated)
+- Net_Value (Calculated)
 
-Commision_Cutoff (Calculated)
+- Commision_Cutoff (Calculated)
 
 2) zomato_restaurant_details
 
